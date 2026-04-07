@@ -27,7 +27,8 @@ Kodun işleyişi modern bir veri işleme hattını (pipeline) takip eder:
 4.	Analiz: Kelime frekansları ve istatistikleri hesaplanır.
 5.	Sunum: Sonuçlar kullanıcıya görsel bir rapor olarak sunulur.
    <img width="460" height="233" alt="metin sayacı" src="https://github.com/user-attachments/assets/4399a0e4-3f47-4980-8a44-c75e90de1b4f" />
+   
    Geliştiren: Mercan Köseoğlu
-Data Analyst & S  ne  demekAP ABAP Consultant
+Data Analyst & SAP ABAP Consultant
 
 
