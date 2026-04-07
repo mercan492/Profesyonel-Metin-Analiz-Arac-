@@ -2,9 +2,11 @@
 Python tabanlı, NLP (Doğal Dil İşleme) odaklı ve istatistiksel raporlama sunan profesyonel metin analiz aracı. 📊🚀
 
 📊 Profesyonel Metin Analiz Aracı (Text Analyzer Pro)
+
 Bu proje, ham bir metni alıp üzerinde derinlemesine istatistiksel analizler yapan Python tabanlı bir araçtır. Basit bir kelime sayacı olarak başlamış, Veri Temizliği (Data Cleaning) ve Doğal Dil İşleme (NLP) prensipleriyle profesyonel bir seviyeye taşınmıştır.
 
 🚀 Özellikler
+
 •	Noktalama Temizliği: Metni tüm noktalama işaretlerinden arındırarak saf veriye ulaşır.
 •	Standardizasyon: Büyük/küçük harf duyarlılığını ortadan kaldırır.
 •	Kelime Frekansı: En çok kullanılan kelimeleri collections.Counter ile analiz eder.
@@ -17,10 +19,15 @@ Bu proje, ham bir metni alıp üzerinde derinlemesine istatistiksel analizler ya
 •	collections (Counter): Veri sayımı ve frekans analizi için.
 
 📝 Kodun Çalışma Mantığı
+
 Kodun işleyişi modern bir veri işleme hattını (pipeline) takip eder:
 1.	Girdi (Input): Kullanıcıdan metin alınır.
 2.	Ön İşleme (Preprocessing): Noktalamalar silinir ve tüm karakterler küçük harfe dönüştürülür.
 3.	Tokenizasyon: Metin, kelime birimlerine ayrılır.
 4.	Analiz: Kelime frekansları ve istatistikleri hesaplanır.
 5.	Sunum: Sonuçlar kullanıcıya görsel bir rapor olarak sunulur.
+   <img width="460" height="233" alt="metin sayacı" src="https://github.com/user-attachments/assets/4399a0e4-3f47-4980-8a44-c75e90de1b4f" />
+   Geliştiren: Mercan Köseoğlu
+Data Analyst & S  ne  demekAP ABAP Consultant
+
 
